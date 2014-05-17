@@ -1,6 +1,6 @@
 # image-disc
 
-A small utility for making archival copies of CDs and DVDs under Linux.
+A small utility for making archival copies of CDs and DVDs under Linux. It runs in a terminal, and is meant for batch operation. Enter a disc name, pop in a disc, wait, take out the disc, rinse repeat. The script will continue asking for new discs until you hit `ctrl+C`.
 
 There's a lot of duct tape in here, but it generally works. You've been warned.
 
