@@ -40,6 +40,10 @@ You must have the following installed:
 * **TARGET**: The target directory to place images in. Each image will be named according to the name you enter for that disc.
 * **--ddrescue**: Optional flag to force the script to use ddrescue, even for (potential mixed-content) CD-ROMs. Useful for recovering damaged CD-ROMs. **This flag must always be *after* the device and target!**
 
+## License
+
+[WTFPL](http://www.wtfpl.net/), of course. Or [CC0](https://creativecommons.org/publicdomain/zero/1.0/) if you really can't handle the word 'fuck'.
+
 ## Remarks
 
 This is duct tape. It ties together a bunch of existing utilities to automate your imaging. There is no guarantee that it'll work, or even that it'll produce valid images (although it will certainly try). **Check the integrity of your images, if you care about your data!**
