@@ -25,6 +25,7 @@ Pull requests welcome, but please keep in mind that the purpose of this script i
 
 You must have the following installed:
 
+* Python
 * cdrdao
 * `ddrescue` (*not* `dd_rescue`!)
 * UDisks (shipped by most distributions)
